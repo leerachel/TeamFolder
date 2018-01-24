@@ -5,6 +5,7 @@ Just to simulate content in a programming source code
 All statements starts as "Code A" in this file
 ********************/
 
+<<<<<<< HEAD
 1. Code Uno
 X. Code Uno Prime
 X. Code Uno Prime
@@ -13,4 +14,14 @@ X. Code Uno Prime
 6. Code A
 X. Code Uno Prime
 8. Code A
+=======
+1. Code Duo
+2. Code Duo
+3. Code Duo
+4. Code A
+5. Code Duo
+6. Code A
+X. Code A
+8. Code Duo
+>>>>>>> origin/master
 9. Code A
